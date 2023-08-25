@@ -1,2 +1,4 @@
 # DataAnalysis
-This Repository contained Python(Numpy,Pandas,Matplot,seaborn)
+This Repository contained 
+1.Python(Numpy,Pandas,Matplot,seaborn)
+2. MySQL
